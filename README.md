@@ -14,3 +14,5 @@ My first portfolio website built with pure HTML and CSS while learning web devel
 - HTML5
 - CSS3
 
+## License
+This project is free to use as a learning template.
